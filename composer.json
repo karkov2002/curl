@@ -1,0 +1,16 @@
+{
+    "name": "solucia/curl",
+    "description": "Curl module",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mickael Houet",
+            "email": "mhouet@solucia.fr"
+        }
+    ],
+	"config" : {
+		"secure-http" : false
+	},
+    "minimum-stability": "dev"
+}
