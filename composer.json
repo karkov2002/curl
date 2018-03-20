@@ -12,5 +12,10 @@
 	"config" : {
 		"secure-http" : false
 	},
+	"autoload": {
+		"psr-4": {
+			"curl\\": "/"
+		}
+	},
     "minimum-stability": "dev"
 }
