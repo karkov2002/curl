@@ -1,5 +1,5 @@
 {
-    "name": "solucia/curl",
+    "name": "karkov/curl",
     "description": "Curl module",
     "type": "library",
     "license": "MIT",
